@@ -1,0 +1,91 @@
+body {
+    background-image: url('mars-bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #fff;
+}
+.bio_image {
+    display: inline-block;
+    padding: 0px 20px;
+}
+.image {
+    height: 75%;
+    width: 75%;
+}
+#image {
+    height: 25%;
+    width: 25%;
+}
+.img {
+    height: 25%;
+    width: 25%;
+}
+#image_one {
+    height: 12%;
+    width: 12%;
+}
+#image_two {
+    height: 70%;
+    width: 70%;
+}
+#image_three {
+    height: 70%;
+    width: 70%;
+}
+#image_four {
+    height: 70%;
+    width: 70%;
+}
+#image_five {
+    height: 70%;
+    width: 70%;
+}
+#mars {
+    height: 50%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+.title {
+    font-size: 75px;
+    text-align: center;
+}
+nav {
+    text-align: center;
+    overflow: hidden;
+}
+.links {
+    display: inline-block;
+    text-align: center;
+    padding: 15px 25px;
+    text-decoration: none;
+    font-size: 25px;
+    background-color: #000;
+    color: #fff;
+}
+.links:hover {
+    background-color: rgb(46, 46, 46);
+}
+li {
+    font-size: 25px;
+}
+p {
+    font-size: 25px;
+}
+.citation {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.quib {
+    width: 50%;
+    height: 50%;
+}
+#center-div {
+    text-align: center;
+}
